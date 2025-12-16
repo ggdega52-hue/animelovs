@@ -1,0 +1,75 @@
+body {
+    background-color: #42445A;
+    font-size: 15pt;
+    align-items: center;
+}
+
+.DP {
+    background-image: url(d.jpeg);
+    padding : 20px 100px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+      text-decoration: none;
+      color :#FFFFFF;
+}
+
+.ti {
+    background-image: url(ti.jpeg);
+    padding : 20px 130px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+      text-decoration: none;
+      color : #FFFFFF;
+      align-items: center;
+}
+
+.svs {
+    background-image: url(svs.jpeg);
+    padding : 20px 100px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+      text-decoration: none;
+      color: #FFFFFF;
+}
+
+.zb {
+    background-image: url(zb.jpeg);
+    padding : 20px 100px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+      text-decoration: none;
+      color: #FFFFFF;
+}
+
+.jf {
+    background-image: url(d.jpeg);
+    padding : 20px 100px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+      text-decoration: none;
+      color: #FFFFFF;
+}
+
+.tl {
+    background-image: url(tl.jpeg);
+    padding : 20px 100px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.iw {
+    background-image: url(iw.jpeg);
+    padding : 20px 100px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+}
